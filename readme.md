@@ -4,9 +4,9 @@ These short scripts enable you to record radioshows from a webstream, store them
 
 ###Installing
 
-To use these scripts, you will need a webserver with an public accessible  
-
+To use these scripts, install streamripper on your webserver (in my case a Raspberry Pi):  
 ```bash
 sudo apt-get install streamripper
 ```
+Copy the two files 
 
