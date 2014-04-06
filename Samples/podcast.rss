@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Radiorecorder</title>
+<description>Recorded radio shows by cosmovisionas</description>
+<link>http://cosmovisionas.de</link>
+<image><url>http://cosmovisionas.de/records/image.jpg</url><title>Radiorecorder</title><link>http://cosmovisionas.de</link></image>
+<copyright>CC BY-NC-SA cosmovisionas</copyright>
+<language>de-de</language>
+<lastBuildDate>Sun, 06 Apr 2014 13:37:50 +0000</lastBuildDate>
+<pubDate>Sun, 06 Apr 2014 13:37:50 +0000</pubDate>
+<webMaster>mail@cosmovisionas.de</webMaster>
+<item>
+<title>Testshow vom 06.04.2014 </title>
+<description>Testshow vom 06.04.2014</description>
+<link>http://cosmovisionas.de/records/Testshow_2014-04-06_13-28.mp3</link>
+<guid>http://cosmovisionas.de/records/Testshow_2014-04-06_13-28.mp3</guid>
+<pubDate>Sun, 06 Apr 2014 13:28:33 +0000</pubDate>
+<enclosure url="http://cosmovisionas.de/records/Testshow_2014-04-06_13-28.mp3" length="128000" type="audio/mpeg" />
+</item>
+</channel>
+</rss>
