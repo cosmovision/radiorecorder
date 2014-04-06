@@ -14,7 +14,7 @@ To start the recording, execute the shellscript on the server:
 ```bash
 bash recorder.sh
 ```
-To start a recording at a certain file, add a cronjob on your server. For example, if you want to record a show every Saturday on 15:00, open the crontab
+To start a recording at a certain file, add a cronjob on your server. For example, if you want to record a show every Saturday on 15:00, open the crontab:
 ```bash
 crontab -e
 ```
@@ -22,4 +22,4 @@ and add the following line (the file `recorder-testshow.sh` has to contain all t
 ```
 00 15 * * sat bash /home/pi/recorder/recorder-testshow.sh 
 ```
-This script will start streamripper and generate a new version of the podcast RSS-file.
+This script will start streamripper, update the logfile and generate a new version of the podcast RSS-file.
